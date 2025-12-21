@@ -15,7 +15,7 @@ class UParticleSystemComponent;
  * 
  */
 UCLASS()
-class SURVIVALGAME_API ASBombActor : public ASUsableActor
+class FORESTGAME_API ASBombActor : public ASUsableActor
 {
 	GENERATED_BODY()
 

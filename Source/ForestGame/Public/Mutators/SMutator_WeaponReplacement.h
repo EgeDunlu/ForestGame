@@ -40,7 +40,7 @@ public:
  * Allows mutators to replace weapon pickups in the active level
  */
 UCLASS(ABSTRACT)
-class SURVIVALGAME_API ASMutator_WeaponReplacement : public ASMutator
+class FORESTGAME_API ASMutator_WeaponReplacement : public ASMutator
 {
 	GENERATED_BODY()
 

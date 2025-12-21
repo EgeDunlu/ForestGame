@@ -2,4 +2,4 @@
 
 
 
-IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, SurvivalGame, "SurvivalGame" );
+IMPLEMENT_PRIMARY_GAME_MODULE( FDefaultGameModuleImpl, ForestGame, "ForestGame" );

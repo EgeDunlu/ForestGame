@@ -10,7 +10,7 @@
  * Base Mutator. Can add/modify/remove Actors in a level. Called in a chain by the GameMode class on each Actor during Begin Play of each Actor.
  */
 UCLASS(Blueprintable, Abstract, Meta = (ChildCanTick))
-class SURVIVALGAME_API ASMutator : public AInfo
+class FORESTGAME_API ASMutator : public AInfo
 {
 	GENERATED_BODY()
 

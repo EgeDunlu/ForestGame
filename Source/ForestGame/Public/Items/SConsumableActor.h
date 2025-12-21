@@ -10,7 +10,7 @@
  * Base class for consumable (food) items. Consumable by players to restore energy
  */
 UCLASS(ABSTRACT)
-class SURVIVALGAME_API ASConsumableActor : public ASPickupActor
+class FORESTGAME_API ASConsumableActor : public ASPickupActor
 {
 	GENERATED_BODY()
 

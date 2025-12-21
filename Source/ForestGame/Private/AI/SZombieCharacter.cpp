@@ -13,7 +13,7 @@
 #include "Components/CapsuleComponent.h"
 #include "GameFramework/NavMovementComponent.h"
 #include "Components/AudioComponent.h"
-#include "SurvivalGame/SurvivalGame.h"
+#include "ForestGame/ForestGame.h"
 #include "GameFramework/PawnMovementComponent.h"
 #include "Components/AudioComponent.h"
 #include "Kismet/GameplayStatics.h"

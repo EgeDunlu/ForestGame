@@ -10,7 +10,7 @@
  * 
  */
 UCLASS(ABSTRACT)
-class SURVIVALGAME_API ASFlashlight : public ASWeapon
+class FORESTGAME_API ASFlashlight : public ASWeapon
 {
 	GENERATED_BODY()
 

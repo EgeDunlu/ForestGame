@@ -31,7 +31,7 @@ DECLARE_DYNAMIC_MULTICAST_DELEGATE_TwoParams(FChatMessageReceived, class APlayer
  * 
  */
 UCLASS()
-class SURVIVALGAME_API ASPlayerController : public APlayerController
+class FORESTGAME_API ASPlayerController : public APlayerController
 {
 	GENERATED_BODY()
 

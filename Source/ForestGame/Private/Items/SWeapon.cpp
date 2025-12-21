@@ -3,7 +3,7 @@
 
 #include "Items/SWeapon.h"
 #include "Player/SCharacter.h"
-#include "SurvivalGame/STypes.h"
+#include "ForestGame/STypes.h"
 #include "Items/SWeaponPickup.h"
 #include "Player/SPlayerController.h"
 #include "Components/SkeletalMeshComponent.h"

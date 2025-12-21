@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class SURVIVALGAME_API ASSpectatorPawn : public ASpectatorPawn
+class FORESTGAME_API ASSpectatorPawn : public ASpectatorPawn
 {
 	GENERATED_BODY()
 

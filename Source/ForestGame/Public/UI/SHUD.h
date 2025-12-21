@@ -22,7 +22,7 @@ enum class EHUDState : uint8
  * 
  */
 UCLASS()
-class SURVIVALGAME_API ASHUD : public AHUD
+class FORESTGAME_API ASHUD : public AHUD
 {
 	GENERATED_BODY()
 

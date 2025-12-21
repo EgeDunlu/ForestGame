@@ -10,7 +10,7 @@
  * 
  */
 UCLASS(ClassGroup = (Survival), meta = (BlueprintSpawnableComponent))
-class SURVIVALGAME_API USCarryObjectComponent : public USpringArmComponent
+class FORESTGAME_API USCarryObjectComponent : public USpringArmComponent
 {
 	GENERATED_BODY()
 

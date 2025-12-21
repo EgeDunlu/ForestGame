@@ -5,7 +5,7 @@
 #include "Items/SImpactEffect.h"
 #include "Player/SPlayerController.h"
 #include "Items/SDamageType.h"
-#include "SurvivalGame/SurvivalGame.h"
+#include "ForestGame/ForestGame.h"
 #include "PhysicalMaterials/PhysicalMaterial.h"
 #include "Net/UnrealNetwork.h"
 #include "Particles/ParticleSystemComponent.h"

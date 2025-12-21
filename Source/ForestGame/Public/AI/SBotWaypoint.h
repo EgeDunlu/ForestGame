@@ -10,7 +10,7 @@
  * Waypoint helper for bots to generate waypoints during patrols. Object is placed in level to specify a potential patrol target location.
  */
 UCLASS()
-class SURVIVALGAME_API ASBotWaypoint : public ATargetPoint
+class FORESTGAME_API ASBotWaypoint : public ATargetPoint
 {
 	GENERATED_BODY()
 	

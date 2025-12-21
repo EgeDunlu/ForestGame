@@ -10,7 +10,7 @@
  * 
  */
 UCLASS(ABSTRACT)
-class SURVIVALGAME_API ASOpenWorldGameMode : public ASGameMode
+class FORESTGAME_API ASOpenWorldGameMode : public ASGameMode
 {
 	GENERATED_BODY()
 

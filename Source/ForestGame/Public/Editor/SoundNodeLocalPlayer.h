@@ -12,7 +12,7 @@
 * Originates from ShooterGame project by Epic Games.
 */
 UCLASS(hidecategories = Object, editinlinenew)
-class SURVIVALGAME_API USoundNodeLocalPlayer : public USoundNode
+class FORESTGAME_API USoundNodeLocalPlayer : public USoundNode
 {
 	GENERATED_BODY()
 

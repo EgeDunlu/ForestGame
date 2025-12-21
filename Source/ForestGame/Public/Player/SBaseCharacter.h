@@ -4,13 +4,13 @@
 
 #include "CoreMinimal.h"
 #include "GameFramework/Character.h"
-#include "SurvivalGame/STypes.h"
+#include "ForestGame/STypes.h"
 #include "SBaseCharacter.generated.h"
 
 class USoundCue;
 
 UCLASS(ABSTRACT)
-class SURVIVALGAME_API ASBaseCharacter : public ACharacter
+class FORESTGAME_API ASBaseCharacter : public ACharacter
 {
 	GENERATED_BODY()
 

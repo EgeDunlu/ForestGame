@@ -9,7 +9,7 @@
 class USoundCue;
 
 UCLASS(ABSTRACT)
-class SURVIVALGAME_API ASTimeOfDayManager : public AActor
+class FORESTGAME_API ASTimeOfDayManager : public AActor
 {
 	GENERATED_BODY()
 

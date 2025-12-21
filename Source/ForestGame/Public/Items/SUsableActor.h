@@ -7,7 +7,7 @@
 #include "SUsableActor.generated.h"
 
 UCLASS(ABSTRACT)
-class SURVIVALGAME_API ASUsableActor : public AActor
+class FORESTGAME_API ASUsableActor : public AActor
 {
 	GENERATED_BODY()
 

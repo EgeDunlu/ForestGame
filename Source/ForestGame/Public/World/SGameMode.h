@@ -14,7 +14,7 @@ class APlayerStart;
  * 
  */
 UCLASS()
-class SURVIVALGAME_API ASGameMode : public AGameMode
+class FORESTGAME_API ASGameMode : public AGameMode
 {
 	GENERATED_BODY()
 

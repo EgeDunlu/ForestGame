@@ -15,7 +15,7 @@ DECLARE_DYNAMIC_MULTICAST_DELEGATE_OneParam(FPlayerArrayChanged, APlayerState*, 
  * 
  */
 UCLASS()
-class SURVIVALGAME_API USGameInstance : public UGameInstance
+class FORESTGAME_API USGameInstance : public UGameInstance
 {
 	GENERATED_BODY()
 	

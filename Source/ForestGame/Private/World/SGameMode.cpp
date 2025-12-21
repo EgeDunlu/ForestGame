@@ -7,7 +7,7 @@
 #include "World/SGameState.h"
 #include "Player/SCharacter.h"
 #include "UI/SHUD.h"
-#include "SurvivalGame/STypes.h"
+#include "ForestGame/STypes.h"
 #include "Player/SSpectatorPawn.h"
 #include "AI/SZombieAIController.h"
 #include "AI/SZombieCharacter.h"
@@ -20,7 +20,7 @@
 #include "EngineUtils.h"
 #include "Components/CapsuleComponent.h"
 #include "Engine/LevelScriptActor.h"
-#include "SurvivalGame/SurvivalGame.h"
+#include "ForestGame/ForestGame.h"
 
 
 ASGameMode::ASGameMode()

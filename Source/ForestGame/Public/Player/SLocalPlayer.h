@@ -9,7 +9,7 @@
  * LocalPlayer defines a specific user when dealing with multiple players on a single machine (eg. local split-screen)
  */
 UCLASS()
-class SURVIVALGAME_API USLocalPlayer : public ULocalPlayer
+class FORESTGAME_API USLocalPlayer : public ULocalPlayer
 {
 	GENERATED_BODY()
 

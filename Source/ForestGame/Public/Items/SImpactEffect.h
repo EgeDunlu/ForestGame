@@ -7,7 +7,7 @@
 #include "SImpactEffect.generated.h"
 
 UCLASS(ABSTRACT, Blueprintable)
-class SURVIVALGAME_API ASImpactEffect : public AActor
+class FORESTGAME_API ASImpactEffect : public AActor
 {
 	GENERATED_BODY()
 

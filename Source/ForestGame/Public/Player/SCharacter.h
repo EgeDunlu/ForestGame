@@ -10,7 +10,7 @@ class UCameraComponent;
 class USpringArmComponent;
 
 UCLASS()
-class SURVIVALGAME_API ASCharacter : public ASBaseCharacter
+class FORESTGAME_API ASCharacter : public ASBaseCharacter
 {
 	GENERATED_BODY()
 

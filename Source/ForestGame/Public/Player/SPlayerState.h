@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class SURVIVALGAME_API ASPlayerState : public APlayerState
+class FORESTGAME_API ASPlayerState : public APlayerState
 {
 	GENERATED_BODY()
 

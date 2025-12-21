@@ -4,7 +4,7 @@
 
 #include "CoreMinimal.h"
 #include "AIController.h"
-#include "SurvivalGame/STypes.h"
+#include "ForestGame/STypes.h"
 #include "SZombieAIController.generated.h"
 
 class UBehaviorTreeComponent;
@@ -14,7 +14,7 @@ class ASBaseCharacter;
  * 
  */
 UCLASS()
-class SURVIVALGAME_API ASZombieAIController : public AAIController
+class FORESTGAME_API ASZombieAIController : public AAIController
 {
 	GENERATED_BODY()
 

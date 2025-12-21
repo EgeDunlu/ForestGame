@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class SURVIVALGAME_API USGameplayStatics : public UBlueprintFunctionLibrary
+class FORESTGAME_API USGameplayStatics : public UBlueprintFunctionLibrary
 {
 	GENERATED_BODY()
 	

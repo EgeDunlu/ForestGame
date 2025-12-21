@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class SURVIVALGAME_API ASPlayerCameraManager : public APlayerCameraManager
+class FORESTGAME_API ASPlayerCameraManager : public APlayerCameraManager
 {
 	GENERATED_BODY()
 

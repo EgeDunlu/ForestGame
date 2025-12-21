@@ -10,7 +10,7 @@
  * 
  */
 UCLASS(ABSTRACT)
-class SURVIVALGAME_API ASPickupActor : public ASUsableActor
+class FORESTGAME_API ASPickupActor : public ASUsableActor
 {
 	GENERATED_BODY()
 

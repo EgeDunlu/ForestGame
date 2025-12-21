@@ -10,7 +10,7 @@
  * 
  */
 UCLASS(Abstract)
-class SURVIVALGAME_API ASWeaponPickup : public ASPickupActor
+class FORESTGAME_API ASWeaponPickup : public ASPickupActor
 {
 	GENERATED_BODY()
 

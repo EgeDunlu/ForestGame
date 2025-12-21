@@ -10,7 +10,7 @@
  * 
  */
 UCLASS(Abstract)
-class SURVIVALGAME_API ASWeaponInstant : public ASWeapon
+class FORESTGAME_API ASWeaponInstant : public ASWeapon
 {
 	GENERATED_BODY()
 

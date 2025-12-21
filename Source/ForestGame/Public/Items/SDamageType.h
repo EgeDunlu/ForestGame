@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class SURVIVALGAME_API USDamageType : public UDamageType
+class FORESTGAME_API USDamageType : public UDamageType
 {
 	GENERATED_BODY()
 

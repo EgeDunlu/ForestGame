@@ -10,7 +10,7 @@
 * Blackboard Task - Finds a position to a nearby waypoint
 */
 UCLASS()
-class SURVIVALGAME_API UBTTask_FindPatrolLocation : public UBTTask_BlackboardBase
+class FORESTGAME_API UBTTask_FindPatrolLocation : public UBTTask_BlackboardBase
 {
 	GENERATED_BODY()	
 

@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class SURVIVALGAME_API UBTTask_FindBotWaypoint : public UBTTask_BlackboardBase
+class FORESTGAME_API UBTTask_FindBotWaypoint : public UBTTask_BlackboardBase
 {
 	GENERATED_BODY()
 

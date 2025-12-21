@@ -20,7 +20,7 @@ enum class EWeaponState
  * 
  */
 UCLASS(ABSTRACT, Blueprintable)
-class SURVIVALGAME_API ASWeapon : public AActor
+class FORESTGAME_API ASWeapon : public AActor
 {
 	GENERATED_BODY()
 

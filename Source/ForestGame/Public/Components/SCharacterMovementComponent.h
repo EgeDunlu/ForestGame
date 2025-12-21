@@ -10,7 +10,7 @@
  * 
  */
 UCLASS()
-class SURVIVALGAME_API USCharacterMovementComponent : public UCharacterMovementComponent
+class FORESTGAME_API USCharacterMovementComponent : public UCharacterMovementComponent
 {
 	GENERATED_BODY()
 

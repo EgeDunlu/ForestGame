@@ -9,7 +9,7 @@
 class USoundCue;
 
 UCLASS(ABSTRACT)
-class SURVIVALGAME_API ASZombieCharacter : public ASBaseCharacter
+class FORESTGAME_API ASZombieCharacter : public ASBaseCharacter
 {
 	GENERATED_BODY()
 

@@ -13,7 +13,7 @@
 #include "Player/SPlayerController.h"
 #include "Animation/AnimInstance.h"
 #include "Components/CapsuleComponent.h"
-#include "SurvivalGame/SurvivalGame.h"
+#include "ForestGame/ForestGame.h"
 #include "GameFramework/DamageType.h"
 #include "Camera/CameraComponent.h"
 
